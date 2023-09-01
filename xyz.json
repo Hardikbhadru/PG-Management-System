@@ -1,0 +1,12 @@
+{
+    "id":1,
+    "location":"zundal circle",
+    "Property_Type":"House",
+    "Status":"rent",
+    "sharing":"2/3",
+    "bed":"2/3",
+    "bathroom":1,
+    "food/loundry":"yes",
+    "discription":"Food, loundry and all that thing will be availible",
+    "Amenities":["desk", "couboard" ]
+}
